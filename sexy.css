@@ -1,0 +1,68 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: LARGER;
+    background-color: grey;
+    color: floralwhite;
+    text-align: center;
+}
+
+#titulako
+{
+    background-color: black;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#logo
+{
+    width: 300px;
+    vertical-align: middle;
+}
+
+#Meme1
+{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+#Vidio1
+{
+    text-align: left;
+}
+
+#Meme2
+{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+#Vidio2
+{
+    text-align: left;
+}
+
+#Meme3
+{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+#Vidio3
+{
+    text-align: left;
+}
+
+#Meme4
+{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+#Vidio4
+{
+    text-align: left;
+}
