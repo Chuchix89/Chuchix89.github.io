@@ -1,2 +1,2 @@
 # PaginaFok
-Prueba de una pagina de simple entretenimiento
+Prueba de una pagina relax
